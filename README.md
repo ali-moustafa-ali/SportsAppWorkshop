@@ -1,1 +1,2 @@
 # Sports
+Developed a sports application using Swift for iOS, incorporating features such as fetching data from an API, threads, CoreData, UserDefaults, and CocoaPods (Alamofire, Kingfisher, Reachability, lottie). Utilized UIKit and constraints for responsive design and version control with GitHub. Functionality includes viewing sports (Football, Basketball, Cricket, Tennis), leagues, teams, players, and saved favorite teams.
